@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratham955
-- 👀 I’m interested in Python and Web development
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Data Science and Web development
+- 🌱 I’m currently learning Flask, Django and CSS.
 - 💞️ I’m looking to collaborate with various developers
 - 📫 How to reach me www.linkedin.com/in/pratham-singh-62aa491bb
 
